@@ -15,7 +15,6 @@ int main(){
 }
 	
 
-	
 	int motor_speed(){
 	int speed = read_analog(0);
 	
